@@ -1,0 +1,11 @@
+mypy>=0.991
+prospector>=1.8.2
+numpy>=1.23
+bandit>=1.7.4
+nibabel>=4.0.2
+pydicom>=2.3.1
+tqdm>=4.64.1
+matplotlib>=3.6.2
+pillow>=*
+torch>=*
+lightning>=*  
