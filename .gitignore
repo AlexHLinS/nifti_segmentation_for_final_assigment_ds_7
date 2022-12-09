@@ -2,4 +2,5 @@
 /.venv*
 .DS_Store
 *.token
-__pycache__
+/__pycache__
+*.pyc
